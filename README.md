@@ -7,10 +7,13 @@ Tribute:
 The Objective of this project was not to create a beautiful GUI but rather to use Jade and its capabilities to 
 develop a multi-agent system using FIPA Communication Protocols and ACL messages.
 
-Note: This repo is duplicated from [here](https://github.com/LuisPRamos/aiad-conquest) due to permissions sake.
+Note: This repo is duplicated from [LuisPRamos/aiad-conquest](https://github.com/LuisPRamos/aiad-conquest) due to permissions sake.
+
+## Project planning
+Before starting, we developed a plan of what classes and protocols we would implement. You can check it out [here](https://motapinto.github.io/multi-agent-system-conquest/).
 
 ## Docs
-You can read our presentation in [here](https://github.com/motapinto/aiad-conquest/blob/master/Presentation.pdf)!
+You can read our presentation [here](https://github.com/motapinto/aiad-conquest/blob/master/Presentation.pdf)!
 
 ## Gallery
 
