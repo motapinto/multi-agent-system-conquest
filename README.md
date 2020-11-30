@@ -13,7 +13,7 @@ Note: This repo is duplicated from [LuisPRamos/aiad-conquest](https://github.com
 Before starting, we developed a plan of what classes and protocols we would implement. You can check it out [here](https://motapinto.github.io/multi-agent-system-conquest/).
 
 ## Docs
-You can read our presentation [here](https://github.com/motapinto/aiad-conquest/blob/master/Presentation.pdf)!
+You can read our presentation [here](https://github.com/motapinto/multi-agent-system-conquest/blob/main/Presentation.pdf)!
 
 ## Gallery
 
